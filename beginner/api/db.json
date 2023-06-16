@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": "unique-1",
+            "name": "Burak Korkut",
+            "salary": "10000",
+            "department": "Back-End"
+          },
+          {
+            "id": "unique-2",
+            "name": "Bahadır Tuna Aydın",
+            "salary": "12000",
+           "department": "Front-End"
+          },
+          {
+            "id": "unique-3",
+            "name": "Zeki Gökay Kuş",
+            "salary": "11000",
+            "department": "Endüstri"
+          }
+    ]
+}
